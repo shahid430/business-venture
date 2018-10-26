@@ -2,4 +2,6 @@ MAJOR MILESTONES:
 
 -->  Received an TSO eCard from ASG team on 24-Oct-2018
 -->  Philip Jansen is appointed as new BT Group Chief Executive replacing Gavin Patterson on Feb 1 2019.
-
+-->  No Change assigned on 25-Oct-2018
+-->  One P2 case regarding the VM hung was raised by ASG team & is now now fixed,
+-->  .VMSS file has been backed up before reboot.
