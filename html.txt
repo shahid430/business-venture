@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Google Glasses</title>
+<link rel="stylesheet" href="javaguide.css">
+<script src="include/styleguide.js"></script>
+<link rel="shortcut icon" href="https://www.google.com/favicon.ico">
+<script src="include/jsguide.js"></script>
+</head>
+<body onload="initStyleGuide();">
+<div id="content">
+<h1>This is my first google page</h1>
+<h2 id="Background">1 Background</h2>
+
+<p>This document defines formatting and style rules for HTML and CSS. It aims at
+improving collaboration, code quality, and enabling supporting infrastructure.
+It applies to raw, working files that use HTML and CSS, including GSS files.
+Tools are free to obfuscate, minify, and compile as long as the general code
+quality is maintained.</p>
+
+
+
